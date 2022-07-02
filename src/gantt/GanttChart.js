@@ -299,32 +299,6 @@ const GanttChart = ({
           );
           innerPath.current = p2;
         } else {
-          //   let found = null;
-          //   data.forEach(data => {
-          //     const name = yAccessor(data);
-          //     const barHeight = yScale.current.bandwidth();
-          //     const barY = yScale.current(name) + margin.top;
-          //     const xBar = timeScale.current(data.startDate) + margin.left;
-          //     const barWidth =
-          //       timeScale.current(data.endDate) - xBar + margin.left;
-          //     if (
-          //       x >= xBar &&
-          //       x <= xBar + barWidth &&
-          //       y >= barY &&
-          //       y <= barY + barHeight
-          //     ) {
-          //       found = name;
-          //     }
-          //   });
-          //   if (!found) {
-          //     selected.current = null;
-          //     return;
-          //   }
-          //   if (selected.current === found) {
-          //     selected.current = null;
-          //   } else {
-          //     selected.current = found;
-          //   }
           return;
         }
         const value = [
