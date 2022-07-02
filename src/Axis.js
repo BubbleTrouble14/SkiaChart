@@ -1,5 +1,4 @@
-import {Group, Path, Skia, useComputedValue} from '@shopify/react-native-skia';
-// import {format} from 'date-fns';
+import {Path, Skia} from '@shopify/react-native-skia';
 import React, {useMemo} from 'react';
 import Orientation from './Constants';
 
