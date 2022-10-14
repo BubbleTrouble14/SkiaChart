@@ -76,6 +76,41 @@ const data = [
     endDate: new Date('2022-02-13T09:40:35.909Z'),
     color: '#e41a1c',
   },
+  {
+    value: 7,
+    name: 'test',
+    startDate: new Date('2022-02-14T13:41:35.909Z'),
+    endDate: new Date('2022-03-13T09:40:35.909Z'),
+    color: '#e41a1c',
+  },
+  {
+    value: 7,
+    name: '1',
+    startDate: new Date('2022-02-14T13:41:35.909Z'),
+    endDate: new Date('2022-03-13T09:40:35.909Z'),
+    color: '#e41a1c',
+  },
+  {
+    value: 7,
+    name: '2',
+    startDate: new Date('2022-02-14T13:41:35.909Z'),
+    endDate: new Date('2022-03-13T09:40:35.909Z'),
+    color: '#e41a1c',
+  },
+  {
+    value: 7,
+    name: '3',
+    startDate: new Date('2022-02-14T13:41:35.909Z'),
+    endDate: new Date('2022-03-13T09:40:35.909Z'),
+    color: '#e41a1c',
+  },
+  {
+    value: 8,
+    name: '3',
+    startDate: new Date('2021-02-14T13:41:35.909Z'),
+    endDate: new Date('2022-03-13T09:40:35.909Z'),
+    color: '#e41a1c',
+  },
 ];
 
 export default data;

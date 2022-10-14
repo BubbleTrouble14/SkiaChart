@@ -95,7 +95,7 @@ const GanttChart = ({
     [data, xBrushMax],
   );
 
-  const minWidth = 60;
+  const minWidth = 40;
   const barWidth = 10;
 
   const skiaOuterBrushPath = Skia.Path.Make();
